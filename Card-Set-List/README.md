@@ -42,8 +42,8 @@
 | "Tea" | 0 | -1 |
 | "Shot of Baked Bean Juice" | 0 | 1 |
 | "Shot of Baked Bean Juice" | 0 | 1 |
-| "RELEASE!" | 0 |0 | END_GAME |
-| "RELEASE!" | 0 |0 | END_GAME |
+| "RELEASE!" | 0 |0 | END_GAME | It's time to release the beast! | 
+| "RELEASE!" | 0 |0 | END_GAME | All that food and drink has come back to haunt you, let go of the poo! |
 | "RELEASE!" | 0 |0 | END_GAME |
 | "RELEASE!" | 0 |0 | END_GAME |
 | "LAXATIVE!" | 0 |0 | "Discard 5" |
