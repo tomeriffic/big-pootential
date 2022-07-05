@@ -14,14 +14,11 @@ Gift
 
 ## Rewards
 
-### Pledge £10 or more - Pledge Without Reward
-Support the project, show some love to see the project comes to light.
-
-### Pledge £25 or more - Pledge & Pre Order
-Pledge your support to make this project work and pre order Big Pootential Card Game to arrive before Christmas!
-
-### Pledge £50 or more - Pledge & Pre Order & A1 Poo Poster
-Hot off the poo press
+| Pledge Minimum | Title | Description | Deck of Cards Reward | A1 Poo Poster |
+| --- | --- | --- | --- | --- |
+| £10 | Pledge Without Reward | Support the project, show some love to see the project comes to light | 🟥 | 🟥 |
+| £25 | Pledge & Pre Order | Pledge your support to make this project work and pre order Big Pootential Card Game to arrive before Christmas! | 🟩 | 🟥 |
+| £50 | Pledge & Pre Order & A1 Poo Poster | Hot off the poo press | 🟩 | 🟩 |
 
 ## Rules
 
