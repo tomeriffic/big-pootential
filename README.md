@@ -11,6 +11,17 @@ Hi All, It's Tom and Ed. CPO's (Chief Poo Officers) of Big Pootential, about to 
 Game for Teens
 Drinking Game (18+)
 
+## Rewards
+
+### Pledge £10 or more - Pledge Without Reward
+Support the project, show some love to see the project comes to light.
+
+### Pledge £25 or more - Pledge & Pre Order
+Pledge your support to make this project work and pre order Big Pootential Card Game to arrive before Christmas!
+
+### Pledge £50 or more - Pledge & Pre Order & A1 Poo Poster
+Hot off the poo press
+
 ## Rules
 
 ### Game Rules
@@ -38,17 +49,6 @@ If a draw in points happens draw a card and add that to your total. If you draw 
 #### Drink on drinks
 
 Everytime you get a drink card, you drink
-
-### Rewards
-
-#### Pledge £10 or more - Pledge Without Reward
-Support the project, show some love to see the project comes to light.
-
-#### Pledge £25 or more - Pledge & Pre Order
-Pledge your support to make this project work and pre order Big Pootential Card Game to arrive before Christmas!
-
-#### Pledge £50 or more - Pledge & Pre Order & A1 Poo Poster
-Hot off the poo press
 
 #### Higher or Lower
 
