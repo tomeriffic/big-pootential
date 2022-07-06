@@ -6,7 +6,7 @@
 | "Bad Bucket of Chicken" | 5 |
 | "Chow Mein" | 1 |
 | "Chow Mein" | 1 |
-| "Canned Prunes" | 2 | Allow Player to Discard a Negative Rigidity Card | |
+| "Canned Prunes" | 2 |
 | "Canned Prunes" | 2 |
 | "Burger and Chips" | 2 |
 | "Burger and Chips" | 2 |
