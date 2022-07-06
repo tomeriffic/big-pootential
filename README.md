@@ -1,4 +1,6 @@
-# Big Pootential
+<p align=center>
+<img src="Logo/final.png" style="display:block;width:50%;">
+</p>
 
 ## Story
 
@@ -15,7 +17,9 @@ Drinking Game (18+)
 Gift
 
 ## Meet the Creators
+<p align=center>
 <img src="TeamAboutCollaborators.jpeg" style="display:block;width:50%;">
+</p>
 
 Tomas Pilvelis: Over the past 10 years, I don't think there has not been a day where we have not spoken about poo.
 Edward Cook
