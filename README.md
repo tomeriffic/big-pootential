@@ -22,7 +22,7 @@ Gift
 </p>
 
 Tomas Pilvelis: Over the past 10 years, I don't think there has not been a day where we have not spoken about poo.
-Edward Cook
+Edward Cook: Theres nothing more life affirming than brewing a nice poo all day, taking the weight off be sitting on the toilet, and then squeezing out a hoggie.
 
 
 ## Rewards
