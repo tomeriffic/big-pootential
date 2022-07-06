@@ -1,5 +1,5 @@
 | Card | Pootential Factor | Special Ability | Description |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | "Vindaloo" | 3 |
 | "Vindaloo" | 3 |
 | "Bad Bucket of Chicken" | 5 |
