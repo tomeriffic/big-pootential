@@ -9,8 +9,17 @@
 Hi All, It's Tom and Ed. CPO's (Chief Poo Officers) of Team About LTD, about to bring you the most exciting:
 
 Game for Teens
+
 Drinking Game (18+)
+
 Gift
+
+## Meet the Creators
+<img src="TeamAboutCollaborators.jpeg" style="display:block;width:50%;">
+
+Tomas Pilvelis: Over the past 10 years, I don't think there has not been a day where we have not spoken about poo.
+Edward Cook
+
 
 ## Rewards
 
