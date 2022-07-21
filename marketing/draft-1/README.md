@@ -21,8 +21,8 @@ Key
 | Post-2.1(kickstarter)_Folder |:green_square:|:red_square:| Although change video game to card game, Agreed |
 | Post-2.2(instagram)_Folder |:green_square:|:green_square:|
 | Post-2.2(kickstarter)_Folder |:green_square:|:red_square:| Could you close off the bottom section like with the instagram post. The white line goes off graphic.
-| Post-2.3(instagram)_Folder |:red_square:|:green_square:| Looks like the Swiss flag, can you try another design please. Also get rid of Expansions and just have coming soon |
-| Post-2.3(kickstarter)_Folder |:red_square:|:green_square:|Looks like the Swiss flag, can you try another design please. Also get rid of Expansions and just have coming soon. Get rid of the lights. |
+| Post-2.3(instagram)_Folder |:red_square:|:red_square:| Looks like the Swiss flag, can you try another design please. Also get rid of Expansions and just have coming soon |
+| Post-2.3(kickstarter)_Folder |:red_square:|:red_square:|Looks like the Swiss flag, can you try another design please. Also get rid of Expansions and just have coming soon. Get rid of the lights. |
 | Post-2.3.1(instagram)_Folder |:red_square:|:green_square:|  We haven't done this rule yet, its part of the coming soon bit. Change to 'Plans for a drinking game are in the works' | 
 | Post-2.3.1(kickstarter)_Folder |:red_square:|:green_square:|We haven't done this rule yet, its part of the coming soon bit. Change to 'Plans for a drinking game are in the works' |
 | Post-2.3.2(instagram)_Folder |:red_square:|:red_square:| Spelling should be "from around the world"|
