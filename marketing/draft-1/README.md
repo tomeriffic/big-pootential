@@ -13,8 +13,8 @@
 | Post-17_Folder |:green_square:| |
 | Post-18_Folder |:red_square:|:red_square:|
 | Post-19_Folder |:red_square:|
-| Post-2.1(instagram)_Folder |:green_square: Although change video game to card game |
-| Post-2.1(kickstarter)_Folder |:green_square: Although change video game to card game |
+| Post-2.1(instagram)_Folder |:green_square:|:red_square:| Although change video game to card game, Agreed |
+| Post-2.1(kickstarter)_Folder |:green_square:|:red_square:| Although change video game to card game, Agreed |
 | Post-2.2(instagram)_Folder |:green_square:|
 | Post-2.2(kickstarter)_Folder |:green_square:|
 | Post-2.3(instagram)_Folder |:red_square:|
