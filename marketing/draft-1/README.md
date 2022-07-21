@@ -14,8 +14,8 @@ Key
 | Post-14_Folder |:green_square:|:red_square:| Can you fan out the cards here, such as how a person would hold it in their hand |
 | Post-15_Folder |:red_square:| |
 | Post-16_Folder |:green_square:|:red_square:| Can you fan out the cards here, such as how a person would hold it in their hand, yes but get rid of the dots, looks like a plaster|
-| Post-17_Folder |:green_square:| |
-| Post-18_Folder |:red_square:|:red_square:|
+| Post-17_Folder |:green_square:|:green_square:|
+| Post-18_Folder |:red_square:|:red_square:| Can you recreate this in a different way |
 | Post-19_Folder |:red_square:|
 | Post-2.1(instagram)_Folder |:green_square:|:red_square:| Although change video game to card game, Agreed |
 | Post-2.1(kickstarter)_Folder |:green_square:|:red_square:| Although change video game to card game, Agreed |
@@ -28,7 +28,7 @@ Key
 | Post-2.3.2(instagram)_Folder |:green_square:| |  should be "from around the world"|
 | Post-2.3.2(kickstarter)_Folder |:green_square:|
 | Post-20_Folder |:red_square:|:red_square:|
-| Post-21_Folder |:green_square:|
+| Post-21_Folder |:green_square:|:green_square:|
 | Post-22_Folder |:green_square:| | yes but get rid of the dots and lines |
 | Post-23_Folder |:red_square:| | why is there a light? |
 | Post-24_Folder |:green_square:|:red_square:| yes but get rid of the dots |
