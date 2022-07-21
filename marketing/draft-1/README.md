@@ -32,5 +32,5 @@
 | Post-4.1(kickstarter)_Folder |:green_square:|
 | Post-7_Folder |:green_square:|
 | Post-8_Folder |:green_square: yes but spelling mistake |
-| Post-9_Folder |:green_square:|
+| Post-9_Folder |:green_square:|:green_square:|
 
