@@ -1,5 +1,9 @@
 # Sign Off Sheet
 
+Key
+🟥 - To Revise
+🟩 - Good to Keep
+
 | Artifact | Ed | Tom | Comment |
 | --- | --- | --- | --- |
 | Post-1.1(instagram)_Folder |🟩 |🟥| Could we try replace the food with food from the art of the cards supplied? |
