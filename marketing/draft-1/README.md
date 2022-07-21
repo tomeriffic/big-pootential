@@ -1,9 +1,9 @@
 # Sign Off Sheet
 
-| Artifact | Ed | Tom |
-| --- | --- | --- |
-| Post-1.1(instagram)_Folder |🟩 | |
-| Post-1.1(kickstarter)_Folder |:green_square:| |
+| Artifact | Ed | Tom | Comment |
+| --- | --- | --- | --- |
+| Post-1.1(instagram)_Folder |🟩 |🟥| Could we try replace the food with food from the art of the cards supplied? |
+| Post-1.1(kickstarter)_Folder |:green_square:|:red_square| Could we try replace the food with food from the art of the cards supplied? |
 | Post-10_Folder |:green_square:| |
 | Post-12_Folder |:green_square:|:red_square:|
 | Post-13_Folder |:red_square:|:green_square:|
