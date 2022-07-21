@@ -5,13 +5,13 @@
 | Post-1.1(instagram)_Folder | | |
 | Post-1.1(kickstarter)_Folder | | |
 | Post-10_Folder | | |
-| Post-12_Folder | | |
+| Post-12_Folder | |:red_square:|
 | Post-13_Folder | |:green_square:|
 | Post-14_Folder | | |
 | Post-15_Folder | | |
 | Post-16_Folder | | |
 | Post-17_Folder | | |
-| Post-18_Folder | | |
+| Post-18_Folder | |:red_square:|
 | Post-19_Folder | |
 | Post-2.1(instagram)_Folder | |
 | Post-2.1(kickstarter)_Folder | |
