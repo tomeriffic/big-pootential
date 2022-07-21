@@ -40,7 +40,7 @@ Edward Cook: Theres nothing more life affirming than brewing a nice poo all day,
 
 ### Game Rules
 
-![] (marketing/draft-1/Post-2.1(kickstarter)_Folder/Post-2.1(kickstarter).png)
+![](marketing/draft-1/Post-2.1(kickstarter)_Folder/Post-2.1(kickstarter).png)
 
 1-4 players
 
