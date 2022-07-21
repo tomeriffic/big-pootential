@@ -2,9 +2,7 @@
 
 | Artifact | Ed | Tom |
 | --- | --- | --- |
-
-
-| Post-1.1(instagram)_Folder | |
+| Post-1.1(instagram)_Folder | | 
 | Post-1.1(kickstarter)_Folder | |
 | Post-10_Folder | |
 | Post-12_Folder | |
