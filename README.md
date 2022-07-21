@@ -61,6 +61,10 @@ Discarded cards should be added to a ‘toilet’ pile.
 
 If a draw in points happens draw a card and add that to your total. If you draw an action card discard it and draw another card until you draw a food card.
 
+![](marketing/draft-1/Post-17_Folder/Post-17.png)
+![](marketing/draft-1/Post-23_Folder/Post-23.png)
+![](marketing/draft-1/Post-22_Folder/Post-22.png)
+
 ### Drinking Game Rules
 
 #### Drink on drinks
@@ -76,3 +80,5 @@ Place the cards upside down, fip a card upwards. Then guess the next card to be 
 We don't foresee risks as of now as the project has been self-funded till now, as a project that we are really keen on creating for everyone to enjoy, and a brainchild that we want to see come alive!
 
 Simply put, we will do everything in our power to release this big poo-tential.
+
+![](marketing/draft-1/Post-13_Folder/Post-13.png)
