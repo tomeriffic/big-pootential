@@ -61,9 +61,11 @@ Discarded cards should be added to a ‘toilet’ pile.
 
 If a draw in points happens draw a card and add that to your total. If you draw an action card discard it and draw another card until you draw a food card.
 
-![](marketing/draft-1/Post-17_Folder/Post-17.png)
-![](marketing/draft-1/Post-23_Folder/Post-23.png)
-![](marketing/draft-1/Post-22_Folder/Post-22.png)
+![Consume as much food](marketing/draft-1/Post-17_Folder/Post-17.png)
+![Dont Poo Too Soon](marketing/draft-1/Post-23_Folder/Post-23.png)
+![Force your opp to have a bad time](marketing/draft-1/Post-10_Folder/Post-10.png)
+![Release](marketing/draft-1/Post-9_Folder/Post-9.png)
+![Can You Brew Biggest Poo?](marketing/draft-1/Post-22_Folder/Post-22.png)
 
 ### Drinking Game Rules
 
