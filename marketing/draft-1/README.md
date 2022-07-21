@@ -31,10 +31,10 @@ Key
 | Post-21_Folder |:green_square:|
 | Post-22_Folder |:green_square:| | yes but get rid of the dots and lines |
 | Post-23_Folder |:red_square:| | why is there a light? |
-| Post-24_Folder |:green_square:| | yes but get rid of the dots |
-| Post-4.1(instagram)_Folder |:red_square: |
-| Post-4.1(kickstarter)_Folder |:green_square:|
-| Post-7_Folder |:green_square:|
-| Post-8_Folder |:green_square:| | yes but spelling mistake |
+| Post-24_Folder |:green_square:|:red_square:| yes but get rid of the dots |
+| Post-4.1(instagram)_Folder |:red_square: |:red_square:| Can you fan out the cards here, such as how a person would hold it in their hand, yes but get rid of the dots |
+| Post-4.1(kickstarter)_Folder |:green_square:|:red_square:| Can you fan out the cards here, such as how a person would hold it in their hand, yes but get rid of the dots|
+| Post-7_Folder |:green_square:|:green_square::
+| Post-8_Folder |:green_square:|:red_square:| yes but spelling mistake |
 | Post-9_Folder |:green_square:|:green_square:|
 
