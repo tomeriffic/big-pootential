@@ -3,13 +3,13 @@
 | Artifact | Ed | Tom | Comment |
 | --- | --- | --- | --- |
 | Post-1.1(instagram)_Folder |🟩 |🟥| Could we try replace the food with food from the art of the cards supplied? |
-| Post-1.1(kickstarter)_Folder |:green_square:|:red_square| Could we try replace the food with food from the art of the cards supplied? |
-| Post-10_Folder |:green_square:| |
+| Post-1.1(kickstarter)_Folder |:green_square:|:red_square:| Could we try replace the food with food from the art of the cards supplied? |
+| Post-10_Folder |:green_square:|:yellow_square:|
 | Post-12_Folder |:green_square:|:red_square:|
 | Post-13_Folder |:red_square:|:green_square:|
-| Post-14_Folder |:green_square:| |
+| Post-14_Folder |:green_square:|:red_square:| Can you fan out the cards here, such as how a person would hold it in their hand |
 | Post-15_Folder |:red_square:| |
-| Post-16_Folder |:green_square:yes but get rid of the dots, looks like a plaster| |
+| Post-16_Folder |:green_square:|:red_square:| Can you fan out the cards here, such as how a person would hold it in their hand, yes but get rid of the dots, looks like a plaster|
 | Post-17_Folder |:green_square:| |
 | Post-18_Folder |:red_square:|:red_square:|
 | Post-19_Folder |:red_square:|
