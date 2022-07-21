@@ -27,6 +27,9 @@ Edward Cook: Theres nothing more life affirming than brewing a nice poo all day,
 
 ## Rewards
 
+![](marketing/draft-1/Post-2.2(kickstarter)_Folder/Post-2.2(kickstarter).png)
+![](marketing/draft-1/Post-4.1(kickstarter)_Folder/Post-4.1(kickstarter).png)
+
 | Pledge Minimum | Title | Description | Deck of Cards Reward | A1 Poo Poster |
 | --- | --- | --- | --- | --- |
 | £10 | Pledge Without Reward | Support the project, show some love to see the project comes to light | 🟥 | 🟥 |
