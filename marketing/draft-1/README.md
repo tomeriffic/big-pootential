@@ -25,16 +25,16 @@ Key
 | Post-2.3(kickstarter)_Folder |:red_square:|:green_square:|Looks like the Swiss flag, can you try another design please. Also get rid of Expansions and just have coming soon. Get rid of the lights. |
 | Post-2.3.1(instagram)_Folder |:red_square:|:green_square:|  We haven't done this rule yet, its part of the coming soon bit. Change to 'Plans for a drinking game are in the works' | 
 | Post-2.3.1(kickstarter)_Folder |:red_square:|:green_square:|We haven't done this rule yet, its part of the coming soon bit. Change to 'Plans for a drinking game are in the works' |
-| Post-2.3.2(instagram)_Folder |:green_square:|:red_square:| Spelling should be "from around the world"|
-| Post-2.3.2(kickstarter)_Folder |:green_square:|:red_square:| Spelling should be "from around the world"|
+| Post-2.3.2(instagram)_Folder |:red_square:|:red_square:| Spelling should be "from around the world"|
+| Post-2.3.2(kickstarter)_Folder |:red_square:|:red_square:| Spelling should be "from around the world"|
 | Post-20_Folder |:red_square:|:red_square:| Text to say 'progress has been made on card production and design, finishing touches are to be made' and leave a space for us to insert a picture of our cards.|
 | Post-21_Folder |:green_square:|:green_square:|
 | Post-22_Folder |:green_square:|:green_square:| yes but get rid of the dots and lines |
-| Post-23_Folder |:red_square:|:green_square:| get rid of the light |
-| Post-24_Folder |:green_square:|:red_square:| yes but get rid of the dots |
-| Post-4.1(instagram)_Folder |:red_square: |:red_square:| Can you fan out the cards here, such as how a person would hold it in their hand, yes but get rid of the dots |
-| Post-4.1(kickstarter)_Folder |:green_square:|:red_square:| Can you fan out the cards here, such as how a person would hold it in their hand, yes but get rid of the dots|
+| Post-23_Folder |:red_square:|:red_square:| get rid of the light |
+| Post-24_Folder |:red_square:|:red_square:| get rid of the dots |
+| Post-4.1(instagram)_Folder |:red_square: |:red_square:| Can you fan out the cards here, such as how a person would hold it in their hand, rid of the dots |
+| Post-4.1(kickstarter)_Folder |:red_square:|:red_square:| Can you fan out the cards here, such as how a person would hold it in their hand, get rid of the dots|
 | Post-7_Folder |:green_square:|:green_square:|
-| Post-8_Folder |:green_square:|:red_square:| yes but spelling mistake 'your' should be 'you' |
+| Post-8_Folder |:red_square:|:red_square:| Spelling mistake 'your' should be 'you' |
 | Post-9_Folder |:green_square:|:green_square:|
 
