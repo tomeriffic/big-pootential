@@ -21,8 +21,9 @@ Gift
 <img src="TeamAboutCollaborators.jpeg" style="display:block;width:50%;">
 </p>
 
-Tomas Pilvelis: Over the past 10 years, I don't think there has not been a day where we have not spoken about poo.
-Edward Cook: Theres nothing more life affirming than brewing a nice poo all day, taking the weight off be sitting on the toilet, and then squeezing out a hoggie.
+<b>Tomas Pilvelis</b>: Over the past 10 years, I don't think there has not been a day where we have not spoken about poo.
+
+<b>Edward Cook</b>: Theres nothing more life affirming than brewing a nice poo all day, taking the weight off be sitting on the toilet, and then squeezing out a hoggie.
 
 
 ## Rewards
