@@ -16,7 +16,7 @@ Key
 | --- | --- | --- | --- |
 | Post-1.1(instagram)_Folder |🟥 |🟥| Could we try replace the food with food from the art of the cards supplied? |
 | Post-1.1(kickstarter)_Folder |:red_square:|:red_square:| Could we try replace the food with food from the art of the cards supplied? |
-| Post-10_Folder |:red_square:|:green_square:| Put correct card on it |
+| Post-10_Folder |:red_square:|:green_square:| |
 | Post-12_Folder |:red_square:|:red_square:| Not too keen on the graphic, could we try with another? |
 | Post-13_Folder |:green_square:|:green_square:| |
 | Post-14_Folder |:red_square:|:red_square:| Remove hand|
@@ -42,7 +42,7 @@ Key
 | Post-24_Folder |:green_square:|:green_square:| |
 | Post-4.1(instagram)_Folder |:green_square: |:green_square:| |
 | Post-4.1(kickstarter)_Folder |:green_square:|:green_square:| |
-| Post-7_Folder |:green_square:|:green_square:|
-| Post-8_Folder |:green_square:|:red_square:| Spelling mistake 'your' should be 'you' |
-| Post-9_Folder |:green_square:|:green_square:|
+| Post-7_Folder |:green_square:|:green_square:| |
+| Post-8_Folder |:green_square:|:green_square:| |
+| Post-9_Folder |:green_square:|:green_square:| |
 
