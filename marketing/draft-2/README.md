@@ -16,11 +16,11 @@ Key
 | --- | --- | --- | --- |
 | Post-1.1(instagram)_Folder |🟥 |🟥| Could we try replace the food with food from the art of the cards supplied? |
 | Post-1.1(kickstarter)_Folder |:red_square:|:red_square:| Could we try replace the food with food from the art of the cards supplied? |
-| Post-10_Folder |:red_square:|:green_square:| |
+| Post-10_Folder |:green_square:|:green_square:| |
 | Post-12_Folder |:red_square:|:red_square:| Not too keen on the graphic, could we try with another? |
 | Post-13_Folder |:green_square:|:green_square:| |
 | Post-14_Folder |:red_square:|:red_square:| Remove hand|
-| Post-15_Folder |:red_square:|:green_square:| Can you keep the background one shade of brown |
+| Post-15_Folder |:red_square:|:red_square:| Can you keep the background one shade of brown |
 | Post-16_Folder |:red_square:|:red_square:| Remove hand|
 | Post-17_Folder |:green_square:|:green_square:| |
 | Post-18_Folder |:green_square:|:green_square:| |
