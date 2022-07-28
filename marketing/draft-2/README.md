@@ -40,8 +40,8 @@ Key
 | Post-22_Folder |:green_square:|:green_square:| |
 | Post-23_Folder |:red_square:|:red_square:| Remove the light at the top |
 | Post-24_Folder |:green_square:|:green_square:| |
-| Post-4.1(instagram)_Folder |:green_square: |:red_square:| Can you fan out the cards here, such as how a person would hold it in their hand, rid of the dots |
-| Post-4.1(kickstarter)_Folder |:green_square:|:red_square:| Can you fan out the cards here, such as how a person would hold it in their hand, get rid of the dots|
+| Post-4.1(instagram)_Folder |:green_square: |:green_square:| |
+| Post-4.1(kickstarter)_Folder |:green_square:|:green_square:| |
 | Post-7_Folder |:green_square:|:green_square:|
 | Post-8_Folder |:green_square:|:red_square:| Spelling mistake 'your' should be 'you' |
 | Post-9_Folder |:green_square:|:green_square:|
