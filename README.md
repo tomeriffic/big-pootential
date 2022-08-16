@@ -4,17 +4,9 @@
 
 ## Story
 
-### A Big Poopy game about food and drink that causes a big fight back the next day? "Mmmmm Yes Please Daddy."
+### A fun game all about who can brew up the biggest poo! But be careful you don't poo too soon!"
 
-
-
-Hi All, It's Tom and Ed. CPO's (Chief Poo Officers) of Team About LTD, about to bring you the most exciting:
-
-Game for Teens
-
-Drinking Game (18+)
-
-Gift
+Hi All, It's Tom and Ed. CPO's (Chief Poo Officers) of Team About LTD, about to bring you the most exciting new card game...all about poo!
 
 ## Meet the Creators
 <p align=center>
@@ -23,7 +15,11 @@ Gift
 
 <b>Tomas Pilvelis</b>: Over the past 10 years, I don't think there has not been a day where we have not spoken about poo.
 
-<b>Edward Cook</b>: Theres nothing more life affirming than brewing a nice poo all day, taking the weight off be sitting on the toilet, and then squeezing out a hoggie.
+<b>Edward Cook</b>: Theres nothing more life affirming than brewing a nice poo all day, taking the weight off by sitting on the toilet, and then squeezing out a hoggie.
+
+During our friendship we have mainly spoken about our poos, this lead to the idea of turning our love for poo into a card game. After much descussion we decided to go for it, what have we got to lose?! We have tested prototypes of Big Pootential and we think now is the time to start putting it out to the world.
+
+We enjoy playing Big Pootential and we hope you will too!
 
 
 ## Rewards
@@ -81,6 +77,6 @@ Place the cards upside down, fip a card upwards. Then guess the next card to be 
 
 We don't foresee risks as of now as the project has been self-funded till now, as a project that we are really keen on creating for everyone to enjoy, and a brainchild that we want to see come alive!
 
-Simply put, we will do everything in our power to release this big poo-tential.
+Simply put, we will do everything in our power to release this Big Pootential.
 
 ![](marketing/draft-1/Post-13_Folder/Post-13.png)
